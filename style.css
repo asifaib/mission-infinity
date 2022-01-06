@@ -9,6 +9,11 @@
 .half img {
   width: 50%;
 }
+#bambo {
+  border-left: 5px solid rgb(177, 75, 75);
+  padding-left: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
 .diffrent-color {
   color: coral;
 }
@@ -100,9 +105,4 @@ p {
 .ero-non {
   font-size: 70px;
   margin-left: 20%;
-}
-#bambo {
-  border-left: 5px solid rgb(177, 75, 75);
-  padding-left: 10px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
