@@ -96,7 +96,6 @@ p {
   color: white;
 }
 #finishing {
-  text-align: center;
   width: 100%;
 }
 #last-mission span {
@@ -105,4 +104,7 @@ p {
 .ero-non {
   font-size: 70px;
   margin-left: 20%;
+}
+body {
+  margin: 0px;
 }
